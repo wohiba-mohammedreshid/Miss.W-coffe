@@ -110,7 +110,7 @@ function App() {
     } catch {
       setStatus({
         type: "error",
-        text: "We could not send that just now. Please email sourcing@misswcoffee.com."
+        text: "We could not send that just now. Please email abihow63@gmail.com."
       });
     }
   };
@@ -288,11 +288,11 @@ function App() {
             We will respond with availability, sample options, and import timing.
           </p>
           <div className="contact-details">
-            <a href="mailto:sourcing@misswcoffee.com">
-              <Mail size={18} /> sourcing@misswcoffee.com
+            <a href="mailto:abihow63@gmail.com">
+              <Mail size={18} /> abihow63@gmail.com
             </a>
-            <a href="tel:+15550194880">
-              <Phone size={18} /> +1 555 019 4880
+            <a href="tel:+251963945482">
+              <Phone size={18} /> +251-963945482
             </a>
           </div>
         </div>
